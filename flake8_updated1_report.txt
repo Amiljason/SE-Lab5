@@ -1,0 +1,12 @@
+fix1_inventory_sys.py:31:80: E501 line too long (86 > 79 characters)
+fix1_inventory_sys.py:35:1: W293 blank line contains whitespace
+fix1_inventory_sys.py:66:1: W293 blank line contains whitespace
+fix1_inventory_sys.py:76:80: E501 line too long (80 > 79 characters)
+fix1_inventory_sys.py:108:1: W293 blank line contains whitespace
+fix1_inventory_sys.py:112:1: W293 blank line contains whitespace
+fix1_inventory_sys.py:114:25: W291 trailing whitespace
+fix1_inventory_sys.py:115:1: W293 blank line contains whitespace
+fix1_inventory_sys.py:117:1: W293 blank line contains whitespace
+fix1_inventory_sys.py:123:1: W293 blank line contains whitespace
+fix1_inventory_sys.py:126:1: W293 blank line contains whitespace
+fix1_inventory_sys.py:133:11: W292 no newline at end of file

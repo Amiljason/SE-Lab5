@@ -1,0 +1,16 @@
+************* Module fix1_inventory_sys
+fix1_inventory_sys.py:35:0: C0303: Trailing whitespace (trailing-whitespace)
+fix1_inventory_sys.py:66:0: C0303: Trailing whitespace (trailing-whitespace)
+fix1_inventory_sys.py:108:0: C0303: Trailing whitespace (trailing-whitespace)
+fix1_inventory_sys.py:112:0: C0303: Trailing whitespace (trailing-whitespace)
+fix1_inventory_sys.py:114:24: C0303: Trailing whitespace (trailing-whitespace)
+fix1_inventory_sys.py:115:0: C0303: Trailing whitespace (trailing-whitespace)
+fix1_inventory_sys.py:117:0: C0303: Trailing whitespace (trailing-whitespace)
+fix1_inventory_sys.py:123:0: C0303: Trailing whitespace (trailing-whitespace)
+fix1_inventory_sys.py:126:0: C0303: Trailing whitespace (trailing-whitespace)
+fix1_inventory_sys.py:133:0: C0304: Final newline missing (missing-final-newline)
+fix1_inventory_sys.py:65:4: W0603: Using the global statement (global-statement)
+
+-----------------------------------
+Your code has been rated at 8.14/10
+
